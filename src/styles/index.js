@@ -1,5 +1,5 @@
 import styled, { createGlobalStyle } from "styled-components";
-import Background from '../assets/bg.jpg';
+
 
 
 export const GlobalStyle = createGlobalStyle`
@@ -15,7 +15,7 @@ export const GlobalStyle = createGlobalStyle`
 `;
 
 export const Container = styled.div`
-  background-color: #707070
+  background-color: #606060
 
 `;
 
