@@ -13,10 +13,9 @@ export const GlobalStyle = createGlobalStyle`
     
 }
 `;
-export const Container = styled.div`
-  background: url('${Background}');
-  background-size: cover;
 
+export const Container = styled.div`
+  background-color: #707070
 
 `;
 
